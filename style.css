@@ -1,0 +1,14 @@
+.color{
+background: linear-gradient(170deg, #cc33ff 5%, #600080 100%);
+color: #fffdfd;
+position: fixed;
+width: 100%;
+top: 0%;
+left: 0%;
+}
+.navbar{
+    display: flex;
+list-style: none;
+gap: 3rem;
+text-decoration: none;
+}
